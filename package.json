@@ -11,7 +11,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^1.13.3"
+    "webpack": "^1.13.3",
+    "babel-cli": "^6.3.17"
   },
   "dependencies": {
     "lodash": "^4.17.2"
